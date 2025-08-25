@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+spacy
+sentence-transformers
+scikit-learn
+pyyaml
+underthesea

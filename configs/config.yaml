@@ -1,0 +1,12 @@
+data:
+  intent_csv: ./data/intent.csv
+  entity_csv: ./data/entity.csv
+  responses_json: ./data/responses.json
+
+nlu:
+  model_name: sentence-transformers/all-MiniLM-L6-v2
+  top_k: 3
+  threshold: 0.45
+
+spacy:
+  model: vi_core_news_sm

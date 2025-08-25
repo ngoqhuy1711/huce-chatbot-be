@@ -1,0 +1,94 @@
+entity,code,synonyms,value,description
+Ngành tuyển sinh,7580101,"7580101, KT, Kien truc, Kiến trúc",,
+Ngành tuyển sinh,7580101_02,"7580101_02, KTKTCN, Kien truc/ Kien truc cong nghe, Kiến trúc/ Kiến trúc công nghệ",,
+Ngành tuyển sinh,7580102,"7580102, KTCQ, Kien truc canh quan, Kiến trúc cảnh quan",,
+Ngành tuyển sinh,7580103,"7580103, KTNT, Kien truc noi that, Kiến trúc nội thất",,
+Ngành tuyển sinh,7580105,"7580105, QHVVT, Quy hoach vung va đo thi, Quy hoạch vùng và đô thị",,
+Ngành tuyển sinh,7210110,"7210110, MTT, My thuat Đo thi, Mỹ thuật Đô thị",,
+Ngành tuyển sinh,7210402,"7210402, TKCN, Thiet ke cong nghiep, Thiết kế công nghiệp",,
+Ngành tuyển sinh,7210403,"7210403, TKH, Thiet ke đo hoa, Thiết kế đồ hoạ",,
+Ngành tuyển sinh,7210404,"7210404, TKTT, Thiet ke thoi trang, Thiết kế thời trang",,
+Ngành tuyển sinh,7580201,"7580201, KTXD, Ky thuat xay dung, Kỹ thuật xây dựng",,
+Ngành tuyển sinh,7580201_01,"7580201_01, KTXDXDDDVCN, Ky thuat xay dung/ Xay dung Dan dung va Cong nghiep, Kỹ thuật xây dựng/ Xây dựng Dân dụng và Công nghiệp",,
+Ngành tuyển sinh,7580201_02,"7580201_02, KTXDHTKTTCT, Ky thuat xay dung/ He thong ky thuat trong cong trinh, Kỹ thuật xây dựng/ Hệ thống kỹ thuật trong công trình",,
+Ngành tuyển sinh,7580201_03,"7580201_03, KTXDTHXD, Ky thuat xay dung/ Tin hoc xay dung, Kỹ thuật xây dựng/ Tin học xây dựng",,
+Ngành tuyển sinh,7580201_04,"7580201_04, KTXDKTCTT, Ky thuat xay dung/ Ky thuat Cong trinh thuy, Kỹ thuật xây dựng/ Kỹ thuật Công trình thuỷ",,
+Ngành tuyển sinh,7580201_05,"7580201_05, KTXDKTCTB, Ky thuat xay dung/ Ky thuat cong trinh bien, Kỹ thuật xây dựng/ Kỹ thuật công trình biển",,
+Ngành tuyển sinh,7510103,"7510103, CNKTXD, Cong nghe ky thuat xay dung, Công nghệ kỹ thuật xây dựng",,
+Ngành tuyển sinh,7580205_01,"7580205_01, KTXDCTGTXDCU, Ky thuat xay dung cong trinh Giao thong/ Xay dung Cau đuong, Kỹ thuật xây dựng công trình Giao thông/ Xây dựng Cầu đường",,
+Ngành tuyển sinh,7580205_02,"7580205_02, KTXDCTGTUSTCVUST, Ky thuat xay dung cong trinh Giao thong/ Đuong sat toc đo cao va đuong sat đo thi, Kỹ thuật xây dựng công trình Giao thông/ Đường sắt tốc độ cao và đường sắt đô thị",,
+Ngành tuyển sinh,7580213_01,"7580213_01, KTCTNKTNMTN, Ky thuat Cap thoat nuoc/ Ky thuat nuoc - Moi truong nuoc, Kỹ thuật Cấp thoát nước/ Kỹ thuật nước - Môi trường nước",,
+Ngành tuyển sinh,7520320,"7520320, KTMT, Ky thuat Moi truong, Kỹ thuật Môi trường",,
+Ngành tuyển sinh,7520309,"7520309, KTVL, Ky thuat vat lieu, Kỹ thuật vật liệu",,
+Ngành tuyển sinh,7510105,"7510105, CNKTVLXD, Cong nghe ky thuat Vat lieu xay dung, Công nghệ kỹ thuật Vật liệu xây dựng",,
+Ngành tuyển sinh,7480201,"7480201, CNTT, Cong nghe thong tin, Công nghệ thông tin",,
+Ngành tuyển sinh,7480201_01,"7480201_01, CNTTCNPT, Cong nghe thong tin/ Cong nghe Đa phuong tien, Công nghệ thông tin/ Công nghệ Đa phương tiện",,
+Ngành tuyển sinh,7480201_02,"7480201_02, CNTTATTT, Cong nghe thong tin/ An toan thong tin, Công nghệ thông tin/ An toàn thông tin",,
+Ngành tuyển sinh,7480101,"7480101, KHMT, Khoa hoc May tinh, Khoa học Máy tính",,
+Ngành tuyển sinh,7460108,"7460108, KHDL, Khoa hoc du lieu, Khoa học dữ liệu",,
+Ngành tuyển sinh,7520103,"7520103, KTCK, Ky thuat co khi, Kỹ thuật cơ khí",,
+Ngành tuyển sinh,7520103_01,"7520103_01, KTCKMXD, Ky thuat co khi/ May xay dung, Kỹ thuật cơ khí/ Máy xây dựng",,
+Ngành tuyển sinh,7520103_03,"7520103_03, KTCKKTCI, Ky thuat co khi/ Ky thuat co đien, Kỹ thuật cơ khí/ Kỹ thuật cơ điện",,
+Ngành tuyển sinh,7520103_04,"7520103_04, KTCKKTT, Ky thuat co khi/ Ky thuat o to, Kỹ thuật cơ khí/ Kỹ thuật ô tô",,
+Ngành tuyển sinh,7520201,"7520201, KTI, Ky thuat đien, Kỹ thuật điện",,
+Ngành tuyển sinh,7520216,"7520216, KTIKVTOH, Ky thuat đieu khien va tu đong hoa, Kỹ thuật điều khiển và tự động hoá",,
+Ngành tuyển sinh,7580301,"7580301, KTXD, Kinh te xay dung, Kinh tế xây dựng",,
+Ngành tuyển sinh,7580302_01,"7580302_01, QLXDKTVQLT, Quan ly xay dung/ Kinh te va quan ly đo thi, Quản lý xây dựng/ Kinh tế và quản lý đô thị",,
+Ngành tuyển sinh,7580302_02,"7580302_02, QLXDKTVQLBOS, Quan ly xay dung/ Kinh te va quan ly bat đong san, Quản lý xây dựng/ Kinh tế và quản lý bất động sản",,
+Ngành tuyển sinh,7580302_03,"7580302_03, QLXDQLHTAAT, Quan ly xay dung/ Quan ly ha tang, đat đai đo thi, Quản lý xây dựng/ Quản lý hạ tầng, đất đai đô thị",,
+Ngành tuyển sinh,7580302_04,"7580302_04, QLXDKTATXD, Quan ly xay dung/ Kiem toan đau tu xay dung, Quản lý xây dựng/ Kiểm toán đầu tư xây dựng",,
+Ngành tuyển sinh,7340409,"7340409, QLDA, Quan ly Du an, Quản lý Dự án",,
+Ngành tuyển sinh,7510605,"7510605, LVQLCCU, Logistics va Quan ly chuoi cung ung, Logistics và Quản lý chuỗi cung ứng",,
+Ngành tuyển sinh,7510605_01,"7510605_01, LVQLCCULT, Logistics va Quan ly chuoi cung ung/ Logistics đo thi, Logistics và Quản lý chuỗi cung ứng/ Logistics đô thị",,
+Ngành tuyển sinh,7510605_02,"7510605_02, LVQLCCULCN, Logistics va Quan ly chuoi cung ung/ Logistics cong nghiep, Logistics và Quản lý chuỗi cung ứng/ Logistics công nghiệp",,
+Ngành tuyển sinh,7580201_CLC,"7580201_CLC, KTXDCTATKSCLCP, Ky thuat xay dung (Chuong trinh đao tao ky su chat luong cao PFIEV), Kỹ thuật xây dựng (Chương trình đào tạo kỹ sư chất lượng cao PFIEV)",,
+Ngành tuyển sinh,7580201_QT,"7580201_QT, KTXDCTATLKVAHMHK, Ky thuat xay dung (Chuong trinh đao tao lien ket voi Đai hoc Mississippi - Hoa Ky), Kỹ thuật xây dựng (Chương trình đào tạo liên kết với Đại học Mississippi - Hoa Kỳ)",,
+Ngành tuyển sinh,7480101_QT,"7480101_QT, KHMTCTATLKVAHMHK, Khoa hoc may tinh (Chuong trinh đao tao lien ket voi Đai hoc Mississippi - Hoa Ky), Khoa học máy tính (Chương trình đào tạo liên kết với Đại học Mississippi - Hoa Kỳ)",,
+Năm tuyển sinh,2020,"2020, nam 2020, năm 2020",,
+Năm tuyển sinh,2021,"2021, nam 2021, năm 2021",,
+Năm tuyển sinh,2022,"2022, nam 2022, năm 2022",,
+Năm tuyển sinh,2023,"2023, nam 2023, năm 2023",,
+Năm tuyển sinh,2024,"2024, nam 2024, năm 2024",,
+Từ khóa,DIEM_CHUAN,"điểm chuẩn, diem chuan, điểm xét tuyển, diem xet tuyen, trúng tuyển, trung tuyen",,
+Từ khóa,TO_HOP,"tổ hợp, to hop, khối thi, khoi thi, tổ hợp môn, to hop mon",,
+Từ khóa,MA_NGANH,"mã ngành, ma nganh, mã xét tuyển, ma xet tuyen",,
+Từ khóa,PHUONG_THUC,"phương thức, phuong thuc, xét tuyển, xet tuyen",,
+Tổ hợp môn,A00,"A00, Toán Lý Hóa, toán lý hóa",,
+Tổ hợp môn,A01,"A01, Toán Lý Anh, toán lý anh",,
+Tổ hợp môn,D01,"D01, Toán Văn Anh, toán văn anh",,
+Tổ hợp môn,D07,"D07, Toán Hóa Anh, toán hóa anh",,
+Tổ hợp môn,V00,"V00, Toán Lý Vẽ, toán lý vẽ",,
+Tổ hợp môn,V02,"V02, Toán Anh Vẽ, toán anh vẽ",,
+Tổ hợp môn,V10,"V10, Toán Sinh Vẽ, toán sinh vẽ",,
+Tổ hợp môn,H01,"H01, Toán Văn Vẽ, toán văn vẽ",,
+Tổ hợp môn,H06,"H06, Văn Anh Vẽ, văn anh vẽ",,
+Tổ hợp môn,D24,"D24, Toán Vật lí Tiếng Pháp, toan vat li tieng phap",,
+Tổ hợp môn,D29,"D29, Toán Ngữ văn Tiếng Pháp, toan ngu van tieng phap",,
+Tổ hợp môn,H00,"H00, Vẽ - Ngữ văn - Năng khiếu, ve ngu van nang khieu",,
+Tổ hợp môn,H07,"H07, Toán Ngữ văn Năng khiếu, toan ngu van nang khieu",,
+Tổ hợp môn,V01,"V01, Toán Ngữ văn Vẽ, toan ngu van ve",,
+Tổ hợp môn,V06,"V06, Toán Hóa Vẽ, toan hoa ve",,
+Tổ hợp môn,A02,"A02, Toán Lý Sinh, toan ly sinh",,
+Tổ hợp môn,C01,"C01, Toán Ngữ văn Vật lí, toan ngu van vat li",,
+Tổ hợp môn,C02,"C02, Toán Ngữ văn Hóa học, toan ngu van hoa hoc",,
+Tổ hợp môn,X05,"X05, Toán Lý Giáo dục Kinh tế và Pháp luật, toan ly giao duc kinh te va phap luat",,
+Tổ hợp môn,X06,"X06, Toán Lý Tin, toan ly tin",,
+Tổ hợp môn,X14,"X14, Toán Sinh Tin, toan sinh tin",,
+Tổ hợp môn,X26,"X26, Toán Anh Tin, toan anh tin",,
+GIOI_THIEU_NGANH,,,gioi_thieu_nganh,Thông tin giới thiệu ngành học
+CO_HOI_VIEC_LAM,,,co_hoi_viec_lam,Thông tin cơ hội việc làm sau khi tốt nghiệp
+FLOOR_SCORE,,,floor_score,Ngưỡng nhận hồ sơ (điểm sàn)
+METHOD,,,method,Phương thức xét tuyển
+COMBO,,,combo,Tổ hợp môn xét tuyển
+YEAR,,,year,Năm tuyển sinh
+MAJOR_CODE,,,major_code,Mã xét tuyển/ mã ngành
+PROGRAM,,,program,Chương trình: Chuẩn/CLC/CDIO/VLVH...
+SCHOLARSHIP_NAME,,,scholarship_name,Tên học bổng
+DEADLINE,,,deadline,Hạn nộp/ mốc thời gian
+CHANNEL,,,channel,Kênh nộp hồ sơ/ hệ thống
+URL,,,url,Liên kết đăng ký/ tham khảo
+FEE_UNIT,,,fee_unit,"Đơn vị học phí (đ/tín chỉ, đ/năm)"
+PRIORITY_GROUP,,,priority_group,Nhóm ưu tiên KV/ĐT
+CERT_NAME,,,cert_name,"Tên chứng chỉ (IELTS, SAT...)"
+INTRO,,,gioi_thieu_nganh,Giới thiệu ngành học
+CAREER,,,co_hoi_viec_lam,Cơ hội việc làm sau khi tốt nghiệp
