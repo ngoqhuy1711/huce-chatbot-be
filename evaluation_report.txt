@@ -1,0 +1,186 @@
+================================================================================
+INTENT DETECTION EVALUATION REPORT
+================================================================================
+Generated on: 2025-08-25 18:10:21
+Evaluation dataset: data/intent_eval.csv
+Model artifacts: nlu/intent/artifacts
+================================================================================
+
+1. DATASET OVERVIEW
+----------------------------------------
+Total samples: 55
+Unique intents: 20
+Intent distribution:
+  - chao_hoi: 3 (5.5%)
+  - tam_biet: 3 (5.5%)
+  - reset_context: 3 (5.5%)
+  - tro_giup: 3 (5.5%)
+  - hoi_diem_chuan: 3 (5.5%)
+  - hoi_diem_san: 3 (5.5%)
+  - hoi_to_hop_mon: 3 (5.5%)
+  - hoi_khoi_thi: 3 (5.5%)
+  - hoi_ma_nganh: 3 (5.5%)
+  - hoi_nganh_hoc: 3 (5.5%)
+  - hoi_hoc_phi: 3 (5.5%)
+  - hoi_chi_tieu: 3 (5.5%)
+  - thong_ke_bieu_do: 3 (5.5%)
+  - hoi_phuong_thuc: 3 (5.5%)
+  - hoi_thoi_gian_dk: 3 (5.5%)
+  - hoi_dieu_kien: 3 (5.5%)
+  - goi_y_nganh_theo_diem: 3 (5.5%)
+  - fallback: 2 (3.6%)
+  - hoi_hoc_bong: 1 (1.8%)
+  - hoi_chung_chi_nn: 1 (1.8%)
+
+2. THRESHOLD ANALYSIS
+----------------------------------------
+Best threshold: 0.000
+Current default threshold: 0.55
+Threshold improvement: -0.550
+
+3. OVERALL PERFORMANCE
+----------------------------------------
+Unknown predictions: 0
+Unknown rate: 0.0%
+Confidence score statistics:
+  - Mean: 0.852
+  - Median: 0.902
+  - Min: 0.391
+  - Max: 0.979
+  - Std: 0.137
+
+4. CLASSIFICATION REPORT
+----------------------------------------
+                       precision    recall  f1-score   support
+
+             chao_hoi      1.000     1.000     1.000         3
+             fallback      1.000     1.000     1.000         2
+goi_y_nganh_theo_diem      1.000     1.000     1.000         3
+         hoi_chi_tieu      1.000     1.000     1.000         3
+     hoi_chung_chi_nn      1.000     1.000     1.000         1
+       hoi_diem_chuan      1.000     1.000     1.000         3
+         hoi_diem_san      0.750     1.000     0.857         3
+        hoi_dieu_kien      1.000     0.333     0.500         3
+         hoi_hoc_bong      1.000     1.000     1.000         1
+          hoi_hoc_phi      1.000     1.000     1.000         3
+         hoi_khoi_thi      1.000     1.000     1.000         3
+         hoi_ma_nganh      1.000     1.000     1.000         3
+        hoi_nganh_hoc      1.000     1.000     1.000         3
+      hoi_phuong_thuc      0.600     1.000     0.750         3
+     hoi_thoi_gian_dk      1.000     1.000     1.000         3
+       hoi_to_hop_mon      1.000     1.000     1.000         3
+        reset_context      0.750     1.000     0.857         3
+             tam_biet      1.000     1.000     1.000         3
+     thong_ke_bieu_do      1.000     0.667     0.800         3
+             tro_giup      1.000     0.667     0.800         3
+
+             accuracy                          0.927        55
+            macro avg      0.955     0.933     0.928        55
+         weighted avg      0.951     0.927     0.922        55
+
+5. PER-CLASS PERFORMANCE ANALYSIS
+----------------------------------------
+Intent               Count    Precision  Recall     F1-Score   TP   FP   FN  
+--------------------------------------------------------------------------------
+chao_hoi             3        1.000      1.000      1.000      3    0    0   
+fallback             2        1.000      1.000      1.000      2    0    0   
+goi_y_nganh_theo_diem 3        1.000      1.000      1.000      3    0    0   
+hoi_chi_tieu         3        1.000      1.000      1.000      3    0    0   
+hoi_chung_chi_nn     1        1.000      1.000      1.000      1    0    0   
+hoi_diem_chuan       3        1.000      1.000      1.000      3    0    0   
+hoi_diem_san         3        0.750      1.000      0.857      3    1    0   
+hoi_dieu_kien        3        1.000      0.333      0.500      1    0    2   
+hoi_hoc_bong         1        1.000      1.000      1.000      1    0    0   
+hoi_hoc_phi          3        1.000      1.000      1.000      3    0    0   
+hoi_khoi_thi         3        1.000      1.000      1.000      3    0    0   
+hoi_ma_nganh         3        1.000      1.000      1.000      3    0    0   
+hoi_nganh_hoc        3        1.000      1.000      1.000      3    0    0   
+hoi_phuong_thuc      3        0.600      1.000      0.750      3    2    0   
+hoi_thoi_gian_dk     3        1.000      1.000      1.000      3    0    0   
+hoi_to_hop_mon       3        1.000      1.000      1.000      3    0    0   
+reset_context        3        0.750      1.000      0.857      3    1    0   
+tam_biet             3        1.000      1.000      1.000      3    0    0   
+thong_ke_bieu_do     3        1.000      0.667      0.800      2    0    1   
+tro_giup             3        1.000      0.667      0.800      2    0    1   
+
+6. CONFUSION MATRIX
+----------------------------------------
+Predicted vs Actual:
+[[3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 1 0 0 0 0 0 2 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0]
+ [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 2]]
+
+7. ERROR ANALYSIS
+----------------------------------------
+Top misclassified examples:
+1. Text: 'điều kiện xét tuyển thẳng...'
+   True: hoi_dieu_kien | Predicted: hoi_phuong_thuc | Score: 0.951
+
+2. Text: 'điều kiện xét tuyển là gì...'
+   True: hoi_dieu_kien | Predicted: hoi_phuong_thuc | Score: 0.906
+
+3. Text: 'biểu đồ so sánh các ngành...'
+   True: thong_ke_bieu_do | Predicted: hoi_diem_san | Score: 0.721
+
+4. Text: 'gợi ý câu hỏi...'
+   True: tro_giup | Predicted: reset_context | Score: 0.522
+
+8. HIGH CONFIDENCE EXAMPLES
+----------------------------------------
+1. Text: 'xin chào...'
+   Predicted: chao_hoi | Score: 0.802
+
+2. Text: 'tạm biệt...'
+   Predicted: tam_biet | Score: 0.815
+
+3. Text: 'bắt đầu lại...'
+   Predicted: reset_context | Score: 0.919
+
+4. Text: 'hướng dẫn cách dùng...'
+   Predicted: tro_giup | Score: 0.890
+
+5. Text: 'điểm chuẩn 2022 của thiết kế thời trang là bao nhiêu...'
+   Predicted: hoi_diem_chuan | Score: 0.949
+
+6. Text: 'điểm chuẩn 2022 của quy hoạch là bao nhiêu...'
+   Predicted: hoi_diem_chuan | Score: 0.979
+
+7. Text: 'điểm trúng tuyển năm ngoái ngành mỹ thuật đô thị...'
+   Predicted: hoi_diem_chuan | Score: 0.917
+
+8. Text: 'điểm sàn 2021 của ngành kỹ thuật xây dựng...'
+   Predicted: hoi_diem_san | Score: 0.941
+
+9. Text: 'điểm sàn 2023 của ngành thiết kế đồ họa...'
+   Predicted: hoi_diem_san | Score: 0.959
+
+10. Text: 'điểm sàn 2021 của ngành thiết kế thời trang...'
+   Predicted: hoi_diem_san | Score: 0.947
+
+9. RECOMMENDATIONS
+----------------------------------------
+1. Use threshold 0.000 for optimal F1-score
+2. Consider adding more training data for intents with low recall
+3. Review high-confidence errors for potential data quality issues
+4. Monitor unknown rate: 0.0%
+
+================================================================================
+END OF REPORT
+================================================================================

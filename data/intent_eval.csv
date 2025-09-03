@@ -1,0 +1,56 @@
+﻿text,intent_true
+xin chào,chao_hoi
+chào bạn,chao_hoi
+hello bot,chao_hoi
+tạm biệt,tam_biet
+bye,tam_biet
+kết thúc trò chuyện,tam_biet
+clear context,reset_context
+reset phiên,reset_context
+bắt đầu lại,reset_context
+gợi ý câu hỏi,tro_giup
+hướng dẫn cách dùng,tro_giup
+how to use,tro_giup
+tư vấn hay gì đó,fallback
+câu hỏi không rõ,fallback
+điểm chuẩn 2022 của thiết kế thời trang là bao nhiêu,hoi_diem_chuan
+điểm chuẩn 2022 của quy hoạch là bao nhiêu,hoi_diem_chuan
+điểm trúng tuyển năm ngoái ngành mỹ thuật đô thị,hoi_diem_chuan
+điểm sàn 2021 của ngành kỹ thuật xây dựng,hoi_diem_san
+điểm sàn 2023 của ngành thiết kế đồ họa,hoi_diem_san
+điểm sàn 2021 của ngành thiết kế thời trang,hoi_diem_san
+ngành thiết kế thời trang dùng tổ hợp nào,hoi_to_hop_mon
+ngành quy hoạch dùng tổ hợp nào,hoi_to_hop_mon
+tổ hợp môn vào mỹ thuật đô thị,hoi_to_hop_mon
+vào thiết kế thời trang thi khối gì,hoi_khoi_thi
+vào quy hoạch thi khối gì,hoi_khoi_thi
+ngành mỹ thuật đô thị xét khối nào,hoi_khoi_thi
+ngành quy hoạch có học đồ án không,hoi_nganh_hoc
+quy hoạch có thực tập không,hoi_nganh_hoc
+kỹ thuật xây dựng có thực tập không,hoi_nganh_hoc
+mã ngành thiết kế đồ họa năm 2024,hoi_ma_nganh
+mã ngành của kiến trúc,hoi_ma_nganh
+mã ngành kiến trúc nội thất năm 2024,hoi_ma_nganh
+mức thu học phí quy hoạch,hoi_hoc_phi
+mức thu học phí thiết kế đồ họa,hoi_hoc_phi
+mức thu học phí mỹ thuật đô thị,hoi_hoc_phi
+trường có học bổng không,hoi_hoc_bong
+chỉ tiêu 2024 ngành quy hoạch,hoi_chi_tieu
+chỉ tiêu 2021 ngành kiến trúc,hoi_chi_tieu
+chỉ tiêu 2024 ngành kiến trúc,hoi_chi_tieu
+hồ sơ cần cho tuyển thẳng,hoi_phuong_thuc
+đổi phương thức xét tuyển được không,hoi_phuong_thuc
+trình tự đăng ký theo thi tốt nghiệp,hoi_phuong_thuc
+lịch tuyển sinh 2023,hoi_thoi_gian_dk
+mốc thời gian tuyển sinh 2021,hoi_thoi_gian_dk
+thời gian đăng ký xét tuyển,hoi_thoi_gian_dk
+điều kiện xét tuyển là gì,hoi_dieu_kien
+điều kiện xét tuyển thẳng,hoi_dieu_kien
+điều kiện theo học bạ,hoi_dieu_kien
+có quy đổi ielts không,hoi_chung_chi_nn
+điểm 22 có vừa ngành thiết kế thời trang không,goi_y_nganh_theo_diem
+điểm 22 có vừa ngành quy hoạch không,goi_y_nganh_theo_diem
+điểm 22 có vừa ngành mỹ thuật đô thị không,goi_y_nganh_theo_diem
+vẽ biểu đồ điểm chuẩn ngành kiến trúc 3 năm gần đây,thong_ke_bieu_do
+biểu đồ so sánh các ngành,thong_ke_bieu_do
+so sánh điểm chuẩn 2022 và 2023 ngành thiết kế đồ họa,thong_ke_bieu_do

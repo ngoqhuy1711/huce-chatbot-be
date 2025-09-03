@@ -1,0 +1,121 @@
+﻿utterance,intent
+xin chào,chao_hoi
+chào bạn,chao_hoi
+hello,chao_hoi
+hi,chao_hoi
+chào chatbot,chao_hoi
+alo có ai không,chao_hoi
+tạm biệt,tam_biet
+bye,tam_biet
+hẹn gặp lại,tam_biet
+mình đi đây,tam_biet
+see you,tam_biet
+kết thúc trò chuyện,tam_biet
+bắt đầu lại,reset_context
+xóa ngữ cảnh,reset_context
+reset cuộc trò chuyện,reset_context
+làm mới phiên chat,reset_context
+xóa hết câu trước,reset_context
+start over,reset_context
+gợi ý câu hỏi,tro_giup
+hướng dẫn cách dùng,tro_giup
+giúp tôi với,tro_giup
+tôi cần trợ giúp,tro_giup
+có những câu hỏi nào,tro_giup
+how to use,tro_giup
+ờm cái kia là gì,fallback
+tư vấn hay gì đó,fallback
+random text,fallback
+không rõ nữa,fallback
+???,fallback
+câu hỏi không rõ,fallback
+điểm chuẩn ngành kiến trúc năm 2023,hoi_diem_chuan
+điểm trúng tuyển năm ngoái ngành kỹ thuật xây dựng,hoi_diem_chuan
+điểm chuẩn 2022 của ngành quy hoạch là bao nhiêu,hoi_diem_chuan
+điểm vào ngành thiết kế đồ họa năm gần nhất,hoi_diem_chuan
+điểm chuẩn ngành xây dựng dân dụng 2021,hoi_diem_chuan
+điểm năm trước của ngành nội thất,hoi_diem_chuan
+điểm sàn 2024 của ngành kiến trúc,hoi_diem_san
+ngưỡng đảm bảo chất lượng ngành xây dựng là bao nhiêu,hoi_diem_san
+điểm sàn xét tuyển năm nay,hoi_diem_san
+điểm sàn theo phương thức thi tốt nghiệp,hoi_diem_san
+điểm sàn học bạ 2023,hoi_diem_san
+điểm sàn của trường năm 2022,hoi_diem_san
+tổ hợp xét tuyển ngành kiến trúc,hoi_to_hop_mon
+tổ hợp môn vào ngành kỹ thuật xây dựng,hoi_to_hop_mon
+tổ hợp nào cho ngành quy hoạch,hoi_to_hop_mon
+các tổ hợp xét tuyển A00 A01 D01,hoi_to_hop_mon
+tổ hợp môn cho ngành thiết kế thời trang,hoi_to_hop_mon
+tổ hợp môn vào ngành mỹ thuật đô thị,hoi_to_hop_mon
+khối thi ngành kiến trúc,hoi_khoi_thi
+ngành xây dựng xét khối nào,hoi_khoi_thi
+ngành đồ họa thi khối gì,hoi_khoi_thi
+khối thi vào trường là gì,hoi_khoi_thi
+khối nào cho ngành thời trang,hoi_khoi_thi
+vào ngành nội thất cần khối nào,hoi_khoi_thi
+ngành kiến trúc học gì,hoi_nganh_hoc
+giới thiệu ngành kỹ thuật xây dựng,hoi_nganh_hoc
+ngành quy hoạch ra làm gì,hoi_nganh_hoc
+nội dung học của ngành thiết kế công nghiệp,hoi_nganh_hoc
+ngành đồ họa học những môn nào,hoi_nganh_hoc
+mô tả ngành kiến trúc cảnh quan,hoi_nganh_hoc
+mã ngành kiến trúc là gì,hoi_ma_nganh
+mã ngành kỹ thuật xây dựng,hoi_ma_nganh
+cho mình mã ngành quy hoạch,hoi_ma_nganh
+mã ngành thiết kế đồ họa,hoi_ma_nganh
+mã ngành kiến trúc nội thất,hoi_ma_nganh
+mã ngành mỹ thuật đô thị,hoi_ma_nganh
+học phí ngành xây dựng bao nhiêu,hoi_hoc_phi
+mức thu học phí của trường,hoi_hoc_phi
+học phí một năm là bao nhiêu tiền,hoi_hoc_phi
+học phí ngành kiến trúc,hoi_hoc_phi
+học phí theo tín chỉ như thế nào,hoi_hoc_phi
+học phí có tăng không,hoi_hoc_phi
+trường có học bổng không,hoi_hoc_bong
+các loại học bổng của trường,hoi_hoc_bong
+điều kiện nhận học bổng,hoi_hoc_bong
+mức học bổng tối đa là bao nhiêu,hoi_hoc_bong
+học bổng khuyến khích học tập,hoi_hoc_bong
+có học bổng cho tân sinh viên không,hoi_hoc_bong
+chỉ tiêu tuyển sinh ngành kiến trúc,hoi_chi_tieu
+chỉ tiêu của ngành kỹ thuật xây dựng năm nay,hoi_chi_tieu
+tổng chỉ tiêu của trường,hoi_chi_tieu
+chỉ tiêu từng ngành,hoi_chi_tieu
+chỉ tiêu năm 2024,hoi_chi_tieu
+chỉ tiêu xét tuyển học bạ,hoi_chi_tieu
+phương thức xét tuyển của trường,hoi_phuong_thuc
+xét tuyển bằng học bạ như thế nào,hoi_phuong_thuc
+xét điểm thi tốt nghiệp,hoi_phuong_thuc
+xét đánh giá năng lực được không,hoi_phuong_thuc
+các phương thức tuyển sinh hiện có,hoi_phuong_thuc
+xét tuyển thẳng có không,hoi_phuong_thuc
+thời gian đăng ký xét tuyển,hoi_thoi_gian_dk
+hạn nộp hồ sơ là khi nào,hoi_thoi_gian_dk
+deadline đăng ký năm nay,hoi_thoi_gian_dk
+thời hạn xác nhận nhập học,hoi_thoi_gian_dk
+mốc thời gian tuyển sinh 2024,hoi_thoi_gian_dk
+bao giờ mở cổng đăng ký,hoi_thoi_gian_dk
+điều kiện xét tuyển là gì,hoi_dieu_kien
+tiêu chí trúng tuyển,hoi_dieu_kien
+có cộng điểm ưu tiên không,hoi_dieu_kien
+điều kiện học bạ tối thiểu,hoi_dieu_kien
+điều kiện nộp hồ sơ,hoi_dieu_kien
+điều kiện xét tuyển thẳng,hoi_dieu_kien
+có quy đổi ielts không,hoi_chung_chi_nn
+toiec bao nhiêu được cộng điểm,hoi_chung_chi_nn
+chứng chỉ ngoại ngữ có lợi gì,hoi_chung_chi_nn
+ielts 6.5 được xét thẳng không,hoi_chung_chi_nn
+chứng chỉ tiếng anh có ưu tiên không,hoi_chung_chi_nn
+quy định về chứng chỉ ngoại ngữ,hoi_chung_chi_nn
+mình được 24 điểm nên học ngành nào,goi_y_nganh_theo_diem
+điểm 22 có vừa ngành xây dựng không,goi_y_nganh_theo_diem
+tư vấn ngành theo điểm 25,goi_y_nganh_theo_diem
+điểm 18 chọn ngành nào phù hợp,goi_y_nganh_theo_diem
+mình được 20 điểm nên xét gì,goi_y_nganh_theo_diem
+điểm 27 thì có cơ hội ngành kiến trúc không,goi_y_nganh_theo_diem
+vẽ biểu đồ điểm chuẩn ngành kiến trúc 3 năm gần đây,thong_ke_bieu_do
+thống kê chỉ tiêu theo năm,thong_ke_bieu_do
+so sánh điểm chuẩn 2022 và 2023 ngành xây dựng,thong_ke_bieu_do
+hiển thị biểu đồ xu hướng điểm,thong_ke_bieu_do
+thống kê điểm sàn qua các năm,thong_ke_bieu_do
+biểu đồ so sánh các ngành,thong_ke_bieu_do

@@ -1,0 +1,554 @@
+﻿utterance,intent
+alo có ai không,chao_hoi
+hi,chao_hoi
+good morning,chao_hoi
+alo bot,chao_hoi
+ê bạn,chao_hoi
+chào anh ơi,chao_hoi
+hello,chao_hoi
+hi bạn,chao_hoi
+chào hệ thống,chao_hoi
+chào chatbot,chao_hoi
+xin chào bạn ơi,chao_hoi
+chào cậu,chao_hoi
+yo,chao_hoi
+good evening,chao_hoi
+chào ad,chao_hoi
+tạm biệt bạn,tam_biet
+thoát,tam_biet
+kết thúc chat,tam_biet
+kết thúc,tam_biet
+đóng phiên,tam_biet
+hẹn gặp lại,tam_biet
+chào nhé,tam_biet
+hẹn dịp khác,tam_biet
+see you,tam_biet
+end chat,tam_biet
+xin phép dừng,tam_biet
+cảm ơn mình nghỉ,tam_biet
+mình đi đây,tam_biet
+chào tạm biệt,tam_biet
+reset phiên làm việc,reset_context
+bắt đầu câu hỏi mới,reset_context
+bỏ qua câu trước,reset_context
+xóa lịch sử,reset_context
+xóa ngữ cảnh,reset_context
+xóa lịch sử hội thoại,reset_context
+start over,reset_context
+reset cuộc trò chuyện,reset_context
+new chat,reset_context
+quên hết đi,reset_context
+làm mới phiên chat,reset_context
+xóa hết câu trước,reset_context
+xóa trạng thái,reset_context
+làm mới đoạn chat,reset_context
+bắt đầu lại từ đầu,reset_context
+xóa hết hội thoại,reset_context
+xóa ngữ cảnh trước,reset_context
+reset lại đi,reset_context
+xóa hết lịch sử,reset_context
+khởi động lại,reset_context
+clear chat,reset_context
+start new chat,reset_context
+reset,reset_context
+cách dùng chatbot,tro_giup
+help,tro_giup
+làm thế nào để hỏi,tro_giup
+help me,tro_giup
+mình cần giúp,tro_giup
+giúp tôi với,tro_giup
+cần hướng dẫn,tro_giup
+không biết dùng,tro_giup
+có những câu hỏi nào,tro_giup
+trợ giúp,tro_giup
+hướng dẫn sử dụng,tro_giup
+cho tôi menu câu hỏi,tro_giup
+tôi cần trợ giúp,tro_giup
+hỗ trợ mình với,tro_giup
+ờm cái kia là gì,fallback
+nói đại cái gì đó,fallback
+random text,fallback
+???,fallback
+không rõ nữa,fallback
+không biết hỏi gì,fallback
+điểm chuẩn thiết kế đồ họa năm 2023,hoi_diem_chuan
+điểm chuẩn 2022 của kiến trúc là bao nhiêu,hoi_diem_chuan
+điểm vào kiến trúc năm gần nhất,hoi_diem_chuan
+điểm chuẩn 2022 của thiết kế đồ họa là bao nhiêu,hoi_diem_chuan
+điểm chuẩn kiến trúc nội thất năm 2023,hoi_diem_chuan
+điểm vào kỹ thuật xây dựng năm gần nhất,hoi_diem_chuan
+điểm chuẩn ngành kiến trúc năm 2023,hoi_diem_chuan
+điểm chuẩn ngành xây dựng dân dụng 2021,hoi_diem_chuan
+điểm vào quy hoạch năm gần nhất,hoi_diem_chuan
+điểm năm trước của ngành nội thất,hoi_diem_chuan
+điểm chuẩn quy hoạch năm 2023,hoi_diem_chuan
+điểm chuẩn 2022 của kỹ thuật xây dựng là bao nhiêu,hoi_diem_chuan
+điểm vào kiến trúc nội thất năm gần nhất,hoi_diem_chuan
+điểm trúng tuyển năm ngoái ngành kỹ thuật xây dựng,hoi_diem_chuan
+điểm chuẩn 2022 của ngành quy hoạch là bao nhiêu,hoi_diem_chuan
+điểm chuẩn thiết kế thời trang năm 2023,hoi_diem_chuan
+điểm vào ngành thiết kế đồ họa năm gần nhất,hoi_diem_chuan
+điểm chuẩn 2022 của mỹ thuật đô thị là bao nhiêu,hoi_diem_chuan
+điểm chuẩn 2022 của kiến trúc nội thất là bao nhiêu,hoi_diem_chuan
+điểm trúng tuyển năm ngoái ngành thiết kế thời trang,hoi_diem_chuan
+điểm trúng tuyển năm ngoái ngành kiến trúc nội thất,hoi_diem_chuan
+điểm trúng tuyển năm ngoái ngành thiết kế đồ họa,hoi_diem_chuan
+điểm chuẩn mỹ thuật đô thị năm 2023,hoi_diem_chuan
+điểm chuẩn kiến trúc năm 2023,hoi_diem_chuan
+điểm vào thiết kế đồ họa năm gần nhất,hoi_diem_chuan
+điểm vào thiết kế thời trang năm gần nhất,hoi_diem_chuan
+điểm trúng tuyển năm ngoái ngành kiến trúc,hoi_diem_chuan
+điểm chuẩn kỹ thuật xây dựng năm 2023,hoi_diem_chuan
+điểm trúng tuyển năm ngoái ngành quy hoạch,hoi_diem_chuan
+điểm vào mỹ thuật đô thị năm gần nhất,hoi_diem_chuan
+ngưỡng đảm bảo chất lượng ngành kiến trúc nội thất,hoi_diem_san
+điểm sàn 2021 của ngành kiến trúc nội thất,hoi_diem_san
+điểm sàn 2022 của ngành thiết kế thời trang,hoi_diem_san
+điểm sàn 2022 của ngành quy hoạch,hoi_diem_san
+điểm sàn 2024 của ngành kiến trúc,hoi_diem_san
+điểm sàn 2022 của ngành kiến trúc nội thất,hoi_diem_san
+điểm sàn 2024 của ngành thiết kế thời trang,hoi_diem_san
+điểm sàn 2023 của ngành kỹ thuật xây dựng,hoi_diem_san
+điểm sàn 2024 của ngành mỹ thuật đô thị,hoi_diem_san
+điểm sàn 2022 của ngành kỹ thuật xây dựng,hoi_diem_san
+ngưỡng đảm bảo chất lượng ngành xây dựng là bao nhiêu,hoi_diem_san
+điểm sàn học bạ 2023,hoi_diem_san
+điểm sàn của trường năm 2022,hoi_diem_san
+điểm sàn xét tuyển năm nay,hoi_diem_san
+điểm sàn 2024 của ngành kiến trúc nội thất,hoi_diem_san
+điểm sàn theo phương thức thi tốt nghiệp,hoi_diem_san
+điểm sàn 2021 của ngành kiến trúc,hoi_diem_san
+điểm sàn 2021 của ngành mỹ thuật đô thị,hoi_diem_san
+điểm sàn 2023 của ngành quy hoạch,hoi_diem_san
+điểm sàn theo đánh giá năng lực,hoi_diem_san
+điểm sàn 2023 của ngành mỹ thuật đô thị,hoi_diem_san
+điểm sàn theo học bạ,hoi_diem_san
+ngưỡng đảm bảo chất lượng ngành quy hoạch,hoi_diem_san
+điểm sàn 2024 của ngành thiết kế đồ họa,hoi_diem_san
+điểm sàn 2022 của ngành mỹ thuật đô thị,hoi_diem_san
+ngưỡng đảm bảo chất lượng ngành mỹ thuật đô thị,hoi_diem_san
+tổ hợp xét tuyển ngành thiết kế đồ họa,hoi_to_hop_mon
+các tổ hợp cho kiến trúc,hoi_to_hop_mon
+tổ hợp xét tuyển ngành kỹ thuật xây dựng,hoi_to_hop_mon
+ngành thiết kế đồ họa dùng tổ hợp nào,hoi_to_hop_mon
+tổ hợp xét tuyển ngành kiến trúc nội thất,hoi_to_hop_mon
+các tổ hợp cho kỹ thuật xây dựng,hoi_to_hop_mon
+tổ hợp xét tuyển ngành kiến trúc,hoi_to_hop_mon
+tổ hợp môn cho ngành thiết kế thời trang,hoi_to_hop_mon
+các tổ hợp cho quy hoạch,hoi_to_hop_mon
+tổ hợp môn vào ngành mỹ thuật đô thị,hoi_to_hop_mon
+tổ hợp xét tuyển ngành quy hoạch,hoi_to_hop_mon
+ngành kỹ thuật xây dựng dùng tổ hợp nào,hoi_to_hop_mon
+các tổ hợp cho kiến trúc nội thất,hoi_to_hop_mon
+tổ hợp môn vào ngành kỹ thuật xây dựng,hoi_to_hop_mon
+tổ hợp nào cho ngành quy hoạch,hoi_to_hop_mon
+tổ hợp xét tuyển ngành thiết kế thời trang,hoi_to_hop_mon
+các tổ hợp xét tuyển A00 A01 D01,hoi_to_hop_mon
+ngành mỹ thuật đô thị dùng tổ hợp nào,hoi_to_hop_mon
+ngành kiến trúc nội thất dùng tổ hợp nào,hoi_to_hop_mon
+tổ hợp môn vào thiết kế thời trang,hoi_to_hop_mon
+tổ hợp môn vào kiến trúc nội thất,hoi_to_hop_mon
+tổ hợp môn vào thiết kế đồ họa,hoi_to_hop_mon
+tổ hợp xét tuyển ngành mỹ thuật đô thị,hoi_to_hop_mon
+tổ hợp môn vào kiến trúc,hoi_to_hop_mon
+các tổ hợp cho thiết kế đồ họa,hoi_to_hop_mon
+các tổ hợp cho thiết kế thời trang,hoi_to_hop_mon
+ngành kiến trúc dùng tổ hợp nào,hoi_to_hop_mon
+tổ hợp môn vào kỹ thuật xây dựng,hoi_to_hop_mon
+tổ hợp môn vào quy hoạch,hoi_to_hop_mon
+các tổ hợp cho mỹ thuật đô thị,hoi_to_hop_mon
+khối thi ngành thiết kế đồ họa,hoi_khoi_thi
+khối nào cho kiến trúc,hoi_khoi_thi
+khối thi ngành kỹ thuật xây dựng,hoi_khoi_thi
+vào thiết kế đồ họa thi khối gì,hoi_khoi_thi
+khối thi ngành kiến trúc nội thất,hoi_khoi_thi
+khối nào cho kỹ thuật xây dựng,hoi_khoi_thi
+khối thi ngành kiến trúc,hoi_khoi_thi
+khối nào cho ngành thời trang,hoi_khoi_thi
+khối nào cho quy hoạch,hoi_khoi_thi
+vào ngành nội thất cần khối nào,hoi_khoi_thi
+khối thi ngành quy hoạch,hoi_khoi_thi
+vào kỹ thuật xây dựng thi khối gì,hoi_khoi_thi
+khối nào cho kiến trúc nội thất,hoi_khoi_thi
+ngành xây dựng xét khối nào,hoi_khoi_thi
+ngành đồ họa thi khối gì,hoi_khoi_thi
+khối thi ngành thiết kế thời trang,hoi_khoi_thi
+khối thi vào trường là gì,hoi_khoi_thi
+vào mỹ thuật đô thị thi khối gì,hoi_khoi_thi
+vào kiến trúc nội thất thi khối gì,hoi_khoi_thi
+ngành thiết kế thời trang xét khối nào,hoi_khoi_thi
+ngành kiến trúc nội thất xét khối nào,hoi_khoi_thi
+ngành thiết kế đồ họa xét khối nào,hoi_khoi_thi
+khối thi ngành mỹ thuật đô thị,hoi_khoi_thi
+ngành kiến trúc xét khối nào,hoi_khoi_thi
+khối nào cho thiết kế đồ họa,hoi_khoi_thi
+khối nào cho thiết kế thời trang,hoi_khoi_thi
+vào kiến trúc thi khối gì,hoi_khoi_thi
+ngành kỹ thuật xây dựng xét khối nào,hoi_khoi_thi
+ngành quy hoạch xét khối nào,hoi_khoi_thi
+khối nào cho mỹ thuật đô thị,hoi_khoi_thi
+học kiến trúc nội thất trong mấy năm,hoi_nganh_hoc
+thiết kế đồ họa cần năng khiếu không,hoi_nganh_hoc
+mô tả chi tiết ngành thiết kế đồ họa,hoi_nganh_hoc
+thiết kế thời trang có học lập trình/ thiết kế không,hoi_nganh_hoc
+mỹ thuật đô thị cần năng khiếu không,hoi_nganh_hoc
+kỹ thuật xây dựng ra làm gì,hoi_nganh_hoc
+ngành kiến trúc học gì,hoi_nganh_hoc
+thiết kế đồ họa ra làm gì,hoi_nganh_hoc
+ngành thiết kế đồ họa có học đồ án không,hoi_nganh_hoc
+ngành mỹ thuật đô thị có học toán cao cấp không,hoi_nganh_hoc
+mô tả chi tiết ngành mỹ thuật đô thị,hoi_nganh_hoc
+học xong kiến trúc làm ở đâu,hoi_nganh_hoc
+ngành đồ họa học những môn nào,hoi_nganh_hoc
+học xong thiết kế đồ họa làm ở đâu,hoi_nganh_hoc
+ngành mỹ thuật đô thị có học đồ án không,hoi_nganh_hoc
+mỹ thuật đô thị ra làm gì,hoi_nganh_hoc
+mô tả ngành quy hoạch,hoi_nganh_hoc
+kỹ thuật xây dựng có học lập trình/ thiết kế không,hoi_nganh_hoc
+học thiết kế thời trang trong mấy năm,hoi_nganh_hoc
+ngành kỹ thuật xây dựng học gì,hoi_nganh_hoc
+kỹ năng cần cho thiết kế thời trang là gì,hoi_nganh_hoc
+quy hoạch cần năng khiếu không,hoi_nganh_hoc
+kỹ năng cần cho quy hoạch là gì,hoi_nganh_hoc
+giới thiệu ngành quy hoạch,hoi_nganh_hoc
+kiến trúc cần năng khiếu không,hoi_nganh_hoc
+chương trình đào tạo ngành mỹ thuật đô thị gồm gì,hoi_nganh_hoc
+nội dung học của ngành kiến trúc,hoi_nganh_hoc
+ngành kỹ thuật xây dựng có học toán cao cấp không,hoi_nganh_hoc
+mô tả ngành kỹ thuật xây dựng,hoi_nganh_hoc
+mỹ thuật đô thị có học lập trình/ thiết kế không,hoi_nganh_hoc
+học xong kỹ thuật xây dựng làm ở đâu,hoi_nganh_hoc
+ngành kiến trúc có học đồ án không,hoi_nganh_hoc
+học xong quy hoạch làm ở đâu,hoi_nganh_hoc
+mô tả ngành kiến trúc cảnh quan,hoi_nganh_hoc
+môn trọng tâm của ngành thiết kế thời trang,hoi_nganh_hoc
+môn trọng tâm của ngành kiến trúc,hoi_nganh_hoc
+chương trình đào tạo ngành kiến trúc nội thất gồm gì,hoi_nganh_hoc
+chương trình đào tạo ngành kiến trúc gồm gì,hoi_nganh_hoc
+mô tả ngành mỹ thuật đô thị,hoi_nganh_hoc
+thiết kế đồ họa có thực tập không,hoi_nganh_hoc
+ngành thiết kế thời trang có học đồ án không,hoi_nganh_hoc
+giới thiệu ngành thiết kế thời trang,hoi_nganh_hoc
+kỹ thuật xây dựng cần năng khiếu không,hoi_nganh_hoc
+mỹ thuật đô thị có thực tập không,hoi_nganh_hoc
+thiết kế thời trang có thực tập không,hoi_nganh_hoc
+nội dung học của ngành quy hoạch,hoi_nganh_hoc
+nội dung học của ngành thiết kế thời trang,hoi_nganh_hoc
+ngành kiến trúc có học toán cao cấp không,hoi_nganh_hoc
+ngành thiết kế đồ họa học gì,hoi_nganh_hoc
+kỹ năng cần cho thiết kế đồ họa là gì,hoi_nganh_hoc
+học kiến trúc trong mấy năm,hoi_nganh_hoc
+giới thiệu ngành mỹ thuật đô thị,hoi_nganh_hoc
+mô tả ngành kiến trúc nội thất,hoi_nganh_hoc
+nội dung học của ngành thiết kế công nghiệp,hoi_nganh_hoc
+ngành kiến trúc nội thất học gì,hoi_nganh_hoc
+chương trình đào tạo ngành thiết kế đồ họa gồm gì,hoi_nganh_hoc
+nội dung học của ngành thiết kế đồ họa,hoi_nganh_hoc
+học xong kiến trúc nội thất làm ở đâu,hoi_nganh_hoc
+nội dung học của ngành mỹ thuật đô thị,hoi_nganh_hoc
+kiến trúc nội thất có thực tập không,hoi_nganh_hoc
+chương trình đào tạo ngành kỹ thuật xây dựng gồm gì,hoi_nganh_hoc
+mô tả chi tiết ngành kiến trúc,hoi_nganh_hoc
+học xong thiết kế thời trang làm ở đâu,hoi_nganh_hoc
+học mỹ thuật đô thị trong mấy năm,hoi_nganh_hoc
+học kỹ thuật xây dựng trong mấy năm,hoi_nganh_hoc
+kỹ năng cần cho kiến trúc là gì,hoi_nganh_hoc
+kiến trúc nội thất cần năng khiếu không,hoi_nganh_hoc
+quy hoạch có học lập trình/ thiết kế không,hoi_nganh_hoc
+môn trọng tâm của ngành mỹ thuật đô thị,hoi_nganh_hoc
+thiết kế đồ họa có học lập trình/ thiết kế không,hoi_nganh_hoc
+mô tả chi tiết ngành thiết kế thời trang,hoi_nganh_hoc
+chương trình đào tạo ngành thiết kế thời trang gồm gì,hoi_nganh_hoc
+môn trọng tâm của ngành quy hoạch,hoi_nganh_hoc
+thiết kế thời trang cần năng khiếu không,hoi_nganh_hoc
+ngành thiết kế thời trang có học toán cao cấp không,hoi_nganh_hoc
+môn trọng tâm của ngành kỹ thuật xây dựng,hoi_nganh_hoc
+kỹ năng cần cho mỹ thuật đô thị là gì,hoi_nganh_hoc
+ngành kiến trúc nội thất có học đồ án không,hoi_nganh_hoc
+kiến trúc có học lập trình/ thiết kế không,hoi_nganh_hoc
+môn trọng tâm của ngành thiết kế đồ họa,hoi_nganh_hoc
+kiến trúc có thực tập không,hoi_nganh_hoc
+ngành kiến trúc nội thất có học toán cao cấp không,hoi_nganh_hoc
+chương trình đào tạo ngành quy hoạch gồm gì,hoi_nganh_hoc
+ngành kỹ thuật xây dựng có học đồ án không,hoi_nganh_hoc
+mô tả chi tiết ngành quy hoạch,hoi_nganh_hoc
+giới thiệu ngành kỹ thuật xây dựng,hoi_nganh_hoc
+học thiết kế đồ họa trong mấy năm,hoi_nganh_hoc
+giới thiệu ngành kiến trúc nội thất,hoi_nganh_hoc
+ngành quy hoạch ra làm gì,hoi_nganh_hoc
+ngành quy hoạch học gì,hoi_nganh_hoc
+ngành thiết kế đồ họa có học toán cao cấp không,hoi_nganh_hoc
+mô tả chi tiết ngành kiến trúc nội thất,hoi_nganh_hoc
+kỹ năng cần cho kiến trúc nội thất là gì,hoi_nganh_hoc
+ngành quy hoạch có học toán cao cấp không,hoi_nganh_hoc
+học xong mỹ thuật đô thị làm ở đâu,hoi_nganh_hoc
+ngành mỹ thuật đô thị học gì,hoi_nganh_hoc
+môn trọng tâm của ngành kiến trúc nội thất,hoi_nganh_hoc
+kỹ năng cần cho kỹ thuật xây dựng là gì,hoi_nganh_hoc
+quy hoạch ra làm gì,hoi_nganh_hoc
+mô tả chi tiết ngành kỹ thuật xây dựng,hoi_nganh_hoc
+học quy hoạch trong mấy năm,hoi_nganh_hoc
+kiến trúc nội thất có học lập trình/ thiết kế không,hoi_nganh_hoc
+mã ngành mỹ thuật đô thị năm 2021,hoi_ma_nganh
+mã ngành kiến trúc là gì,hoi_ma_nganh
+mã tuyển sinh kỹ thuật xây dựng,hoi_ma_nganh
+mã số ngành kỹ thuật xây dựng,hoi_ma_nganh
+mã số ngành thiết kế đồ họa,hoi_ma_nganh
+mã ngành mỹ thuật đô thị là gì,hoi_ma_nganh
+mã số ngành thiết kế thời trang,hoi_ma_nganh
+mã ngành thiết kế đồ họa bao nhiêu,hoi_ma_nganh
+mã ngành kiến trúc năm 2023,hoi_ma_nganh
+mã ngành kiến trúc bao nhiêu,hoi_ma_nganh
+code ngành kỹ thuật xây dựng,hoi_ma_nganh
+mã ngành thiết kế đồ họa là gì,hoi_ma_nganh
+mã ngành kiến trúc nội thất,hoi_ma_nganh
+mã ngành kiến trúc nội thất là gì,hoi_ma_nganh
+mã tuyển sinh thiết kế đồ họa,hoi_ma_nganh
+mã số ngành kiến trúc,hoi_ma_nganh
+mã ngành thiết kế đồ họa năm 2022,hoi_ma_nganh
+cho mình mã ngành thiết kế thời trang,hoi_ma_nganh
+mã ngành thiết kế thời trang năm 2022,hoi_ma_nganh
+mã ngành thiết kế thời trang năm 2023,hoi_ma_nganh
+mã tuyển sinh mỹ thuật đô thị,hoi_ma_nganh
+mã xét tuyển kỹ thuật xây dựng,hoi_ma_nganh
+cho mình mã ngành kiến trúc nội thất,hoi_ma_nganh
+mã số ngành mỹ thuật đô thị,hoi_ma_nganh
+code ngành thiết kế đồ họa,hoi_ma_nganh
+mã tuyển sinh thiết kế thời trang,hoi_ma_nganh
+mã ngành thiết kế đồ họa năm 2023,hoi_ma_nganh
+cho mình mã ngành kỹ thuật xây dựng,hoi_ma_nganh
+mã ngành thiết kế đồ họa hiện tại,hoi_ma_nganh
+mã ngành mỹ thuật đô thị,hoi_ma_nganh
+mã ngành quy hoạch hiện tại,hoi_ma_nganh
+mã ngành kiến trúc nội thất năm 2022,hoi_ma_nganh
+mã xét tuyển thiết kế đồ họa,hoi_ma_nganh
+mã ngành quy hoạch là gì,hoi_ma_nganh
+mã ngành mỹ thuật đô thị năm 2024,hoi_ma_nganh
+mã xét tuyển quy hoạch,hoi_ma_nganh
+mã ngành của kỹ thuật xây dựng,hoi_ma_nganh
+mã ngành kiến trúc năm 2021,hoi_ma_nganh
+mã tuyển sinh quy hoạch,hoi_ma_nganh
+cho mình mã ngành mỹ thuật đô thị,hoi_ma_nganh
+mã ngành thiết kế thời trang năm 2021,hoi_ma_nganh
+mã tuyển sinh kiến trúc,hoi_ma_nganh
+mã ngành kiến trúc nội thất năm 2021,hoi_ma_nganh
+mã ngành của kiến trúc nội thất,hoi_ma_nganh
+mã ngành thiết kế thời trang là gì,hoi_ma_nganh
+mã ngành thiết kế đồ họa,hoi_ma_nganh
+mã ngành của thiết kế thời trang,hoi_ma_nganh
+mã xét tuyển thiết kế thời trang,hoi_ma_nganh
+mã ngành kỹ thuật xây dựng là gì,hoi_ma_nganh
+mã ngành kiến trúc nội thất bao nhiêu,hoi_ma_nganh
+mã ngành của thiết kế đồ họa,hoi_ma_nganh
+mã ngành quy hoạch năm 2022,hoi_ma_nganh
+mã xét tuyển kiến trúc nội thất,hoi_ma_nganh
+mã ngành quy hoạch bao nhiêu,hoi_ma_nganh
+mã ngành kiến trúc năm 2024,hoi_ma_nganh
+mã ngành thiết kế thời trang hiện tại,hoi_ma_nganh
+mã ngành kiến trúc năm 2022,hoi_ma_nganh
+mã số ngành kiến trúc nội thất,hoi_ma_nganh
+code ngành kiến trúc nội thất,hoi_ma_nganh
+mã ngành quy hoạch năm 2024,hoi_ma_nganh
+code ngành kiến trúc,hoi_ma_nganh
+mã ngành thiết kế đồ họa năm 2021,hoi_ma_nganh
+mã ngành quy hoạch năm 2021,hoi_ma_nganh
+mã ngành mỹ thuật đô thị hiện tại,hoi_ma_nganh
+mã ngành mỹ thuật đô thị năm 2023,hoi_ma_nganh
+mã số ngành quy hoạch,hoi_ma_nganh
+mã ngành kỹ thuật xây dựng năm 2022,hoi_ma_nganh
+code ngành quy hoạch,hoi_ma_nganh
+mã ngành kiến trúc hiện tại,hoi_ma_nganh
+mã ngành kỹ thuật xây dựng năm 2021,hoi_ma_nganh
+mã xét tuyển kiến trúc,hoi_ma_nganh
+mã ngành kỹ thuật xây dựng hiện tại,hoi_ma_nganh
+mã ngành kỹ thuật xây dựng năm 2023,hoi_ma_nganh
+mã ngành quy hoạch năm 2023,hoi_ma_nganh
+mã ngành thiết kế thời trang năm 2024,hoi_ma_nganh
+mã xét tuyển mỹ thuật đô thị,hoi_ma_nganh
+mã tuyển sinh kiến trúc nội thất,hoi_ma_nganh
+mã ngành kỹ thuật xây dựng,hoi_ma_nganh
+code ngành thiết kế thời trang,hoi_ma_nganh
+cho mình mã ngành thiết kế đồ họa,hoi_ma_nganh
+cho mình mã ngành quy hoạch,hoi_ma_nganh
+mã ngành của mỹ thuật đô thị,hoi_ma_nganh
+mã ngành thiết kế thời trang bao nhiêu,hoi_ma_nganh
+mã ngành mỹ thuật đô thị năm 2022,hoi_ma_nganh
+mã ngành mỹ thuật đô thị bao nhiêu,hoi_ma_nganh
+mã ngành kỹ thuật xây dựng bao nhiêu,hoi_ma_nganh
+cho mình mã ngành kiến trúc,hoi_ma_nganh
+mã ngành kỹ thuật xây dựng năm 2024,hoi_ma_nganh
+mã ngành kiến trúc nội thất năm 2023,hoi_ma_nganh
+mã ngành của quy hoạch,hoi_ma_nganh
+mã ngành kiến trúc nội thất hiện tại,hoi_ma_nganh
+code ngành mỹ thuật đô thị,hoi_ma_nganh
+học phí ngành mỹ thuật đô thị bao nhiêu,hoi_hoc_phi
+học phí một năm kiến trúc,hoi_hoc_phi
+học phí một năm kiến trúc nội thất,hoi_hoc_phi
+học phí theo tín chỉ thiết kế đồ họa,hoi_hoc_phi
+học phí một năm kỹ thuật xây dựng,hoi_hoc_phi
+học phí một năm thiết kế thời trang,hoi_hoc_phi
+học phí theo tín chỉ kiến trúc,hoi_hoc_phi
+học phí ngành xây dựng bao nhiêu,hoi_hoc_phi
+học phí theo tín chỉ như thế nào,hoi_hoc_phi
+học phí một năm quy hoạch,hoi_hoc_phi
+học phí theo tín chỉ quy hoạch,hoi_hoc_phi
+học phí có tăng không,hoi_hoc_phi
+học phí theo tín chỉ kỹ thuật xây dựng,hoi_hoc_phi
+mức thu học phí kỹ thuật xây dựng,hoi_hoc_phi
+mức thu học phí của trường,hoi_hoc_phi
+học phí một năm là bao nhiêu tiền,hoi_hoc_phi
+học phí ngành thiết kế thời trang bao nhiêu,hoi_hoc_phi
+học phí ngành kiến trúc,hoi_hoc_phi
+học phí theo tín chỉ mỹ thuật đô thị,hoi_hoc_phi
+mức thu học phí kiến trúc nội thất,hoi_hoc_phi
+mức thu học phí thiết kế thời trang,hoi_hoc_phi
+học phí ngành kiến trúc nội thất bao nhiêu,hoi_hoc_phi
+học phí ngành thiết kế đồ họa bao nhiêu,hoi_hoc_phi
+học phí theo tín chỉ kiến trúc nội thất,hoi_hoc_phi
+học phí ngành kiến trúc bao nhiêu,hoi_hoc_phi
+học phí một năm thiết kế đồ họa,hoi_hoc_phi
+học phí theo tín chỉ thiết kế thời trang,hoi_hoc_phi
+mức thu học phí kiến trúc,hoi_hoc_phi
+học phí ngành kỹ thuật xây dựng bao nhiêu,hoi_hoc_phi
+học phí ngành quy hoạch bao nhiêu,hoi_hoc_phi
+học phí một năm mỹ thuật đô thị,hoi_hoc_phi
+các loại học bổng của trường,hoi_hoc_bong
+có học bổng cho tân sinh viên không,hoi_hoc_bong
+điều kiện nhận học bổng,hoi_hoc_bong
+học bổng khuyến khích học tập,hoi_hoc_bong
+mức học bổng tối đa là bao nhiêu,hoi_hoc_bong
+chỉ tiêu 2022 ngành kiến trúc nội thất,hoi_chi_tieu
+chỉ tiêu 2024 ngành thiết kế thời trang,hoi_chi_tieu
+chỉ tiêu 2024 ngành mỹ thuật đô thị,hoi_chi_tieu
+chỉ tiêu 2022 ngành thiết kế thời trang,hoi_chi_tieu
+chỉ tiêu tuyển sinh ngành kiến trúc,hoi_chi_tieu
+chỉ tiêu 2021 ngành thiết kế đồ họa,hoi_chi_tieu
+chỉ tiêu 2022 ngành mỹ thuật đô thị,hoi_chi_tieu
+chỉ tiêu 2022 ngành quy hoạch,hoi_chi_tieu
+chỉ tiêu 2024 ngành thiết kế đồ họa,hoi_chi_tieu
+chỉ tiêu 2021 ngành kiến trúc nội thất,hoi_chi_tieu
+chỉ tiêu của ngành kỹ thuật xây dựng năm nay,hoi_chi_tieu
+chỉ tiêu năm 2024,hoi_chi_tieu
+chỉ tiêu xét tuyển học bạ,hoi_chi_tieu
+tổng chỉ tiêu của trường,hoi_chi_tieu
+chỉ tiêu 2021 ngành quy hoạch,hoi_chi_tieu
+chỉ tiêu từng ngành,hoi_chi_tieu
+chỉ tiêu 2021 ngành kỹ thuật xây dựng,hoi_chi_tieu
+chỉ tiêu theo thi tốt nghiệp,hoi_chi_tieu
+chỉ tiêu 2023 ngành quy hoạch,hoi_chi_tieu
+chỉ tiêu theo học bạ,hoi_chi_tieu
+chỉ tiêu 2021 ngành mỹ thuật đô thị,hoi_chi_tieu
+chỉ tiêu 2023 ngành mỹ thuật đô thị,hoi_chi_tieu
+chỉ tiêu 2022 ngành kỹ thuật xây dựng,hoi_chi_tieu
+chỉ tiêu theo đánh giá năng lực,hoi_chi_tieu
+chỉ tiêu 2023 ngành thiết kế đồ họa,hoi_chi_tieu
+chỉ tiêu 2023 ngành kỹ thuật xây dựng,hoi_chi_tieu
+cách đăng ký theo học bạ,hoi_phuong_thuc
+phương thức xét tuyển của trường,hoi_phuong_thuc
+trình tự đăng ký theo học bạ,hoi_phuong_thuc
+trình tự đăng ký theo tuyển thẳng,hoi_phuong_thuc
+xét điểm thi tốt nghiệp ra sao,hoi_phuong_thuc
+trình tự đăng ký theo đánh giá năng lực,hoi_phuong_thuc
+cách đổi phương thức xét tuyển,hoi_phuong_thuc
+hồ sơ cần cho đánh giá năng lực,hoi_phuong_thuc
+xét tuyển bằng học bạ như thế nào,hoi_phuong_thuc
+các phương thức tuyển sinh hiện có,hoi_phuong_thuc
+xét tuyển thẳng có không,hoi_phuong_thuc
+xét điểm thi tốt nghiệp,hoi_phuong_thuc
+chỉ tiêu theo tuyển thẳng,hoi_phuong_thuc
+đánh giá năng lực có áp dụng không,hoi_phuong_thuc
+xét đánh giá năng lực được không,hoi_phuong_thuc
+mỗi phương thức có chỉ tiêu riêng không,hoi_phuong_thuc
+xét tuyển thẳng điều kiện gì,hoi_phuong_thuc
+hồ sơ cần cho học bạ,hoi_phuong_thuc
+hồ sơ cần cho từng phương thức,hoi_phuong_thuc
+xét học bạ như thế nào,hoi_phuong_thuc
+hồ sơ cần cho ưu tiên chứng chỉ,hoi_phuong_thuc
+hồ sơ cần cho thi tốt nghiệp,hoi_phuong_thuc
+trình tự đăng ký theo ưu tiên chứng chỉ,hoi_phuong_thuc
+phương thức xét tuyển gồm những gì,hoi_phuong_thuc
+chỉ tiêu theo ưu tiên chứng chỉ,hoi_phuong_thuc
+lịch tuyển sinh 2022,hoi_thoi_gian_dk
+đến ngày nào thì hết hạn,hoi_thoi_gian_dk
+thời gian xác nhận nhập học,hoi_thoi_gian_dk
+hạn nộp hồ sơ là khi nào,hoi_thoi_gian_dk
+lịch tuyển sinh 2021,hoi_thoi_gian_dk
+bao giờ mở cổng đăng ký,hoi_thoi_gian_dk
+deadline đăng ký năm nay,hoi_thoi_gian_dk
+mốc thời gian tuyển sinh 2023,hoi_thoi_gian_dk
+khi nào mở đăng ký xét tuyển,hoi_thoi_gian_dk
+thời hạn xác nhận nhập học,hoi_thoi_gian_dk
+mốc thời gian tuyển sinh 2024,hoi_thoi_gian_dk
+deadline nộp hồ sơ là ngày mấy,hoi_thoi_gian_dk
+khi nào mở đăng ký,hoi_thoi_gian_dk
+đến ngày nào thì hết hạn nộp hồ sơ,hoi_thoi_gian_dk
+deadline đăng ký năm nay là khi nào,hoi_thoi_gian_dk
+mốc thời gian tuyển sinh 2022,hoi_thoi_gian_dk
+lịch tuyển sinh 2024,hoi_thoi_gian_dk
+bao giờ kết thúc đăng ký,hoi_thoi_gian_dk
+hạn xác nhận nhập học là khi nào,hoi_thoi_gian_dk
+thời gian thay đổi nguyện vọng,hoi_thoi_gian_dk
+tiêu chí trúng tuyển,hoi_dieu_kien
+điều kiện xét học bạ tối thiểu,hoi_dieu_kien
+yêu cầu điểm trung bình theo ưu tiên chứng chỉ,hoi_dieu_kien
+điều kiện học bạ tối thiểu,hoi_dieu_kien
+điều kiện nhận ưu tiên khu vực,hoi_dieu_kien
+yêu cầu điểm trung bình theo học bạ,hoi_dieu_kien
+điều kiện theo đánh giá năng lực,hoi_dieu_kien
+có cộng điểm ưu tiên không,hoi_dieu_kien
+yêu cầu điểm trung bình theo đánh giá năng lực,hoi_dieu_kien
+yêu cầu điểm trung bình theo thi tốt nghiệp,hoi_dieu_kien
+điều kiện nộp hồ sơ,hoi_dieu_kien
+điều kiện theo thi tốt nghiệp,hoi_dieu_kien
+yêu cầu điểm trung bình theo tuyển thẳng,hoi_dieu_kien
+điều kiện theo ưu tiên chứng chỉ,hoi_dieu_kien
+điều kiện theo tuyển thẳng,hoi_dieu_kien
+cần giấy tờ gì khi đăng ký,hoi_dieu_kien
+toiec bao nhiêu được cộng điểm,hoi_chung_chi_nn
+quy định về chứng chỉ ngoại ngữ,hoi_chung_chi_nn
+chứng chỉ ngoại ngữ có lợi gì,hoi_chung_chi_nn
+chứng chỉ tiếng anh có ưu tiên không,hoi_chung_chi_nn
+ielts 6.5 được xét thẳng không,hoi_chung_chi_nn
+toeic bao nhiêu được cộng điểm,hoi_chung_chi_nn
+điểm 25 có vừa ngành thiết kế thời trang không,goi_y_nganh_theo_diem
+mình được 16 điểm nên học ngành nào,goi_y_nganh_theo_diem
+điểm 20 có vừa ngành thiết kế thời trang không,goi_y_nganh_theo_diem
+điểm 27 có vừa ngành thiết kế thời trang không,goi_y_nganh_theo_diem
+mình được 24 điểm nên học ngành nào,goi_y_nganh_theo_diem
+điểm 18 có vừa ngành kỹ thuật xây dựng không,goi_y_nganh_theo_diem
+điểm 16 có vừa ngành kiến trúc nội thất không,goi_y_nganh_theo_diem
+điểm 25 có vừa ngành kiến trúc nội thất không,goi_y_nganh_theo_diem
+điểm 16 có vừa ngành quy hoạch không,goi_y_nganh_theo_diem
+điểm 16 có vừa ngành kỹ thuật xây dựng không,goi_y_nganh_theo_diem
+điểm 22 có vừa ngành xây dựng không,goi_y_nganh_theo_diem
+mình được 20 điểm nên xét gì,goi_y_nganh_theo_diem
+điểm 27 thì có cơ hội ngành kiến trúc không,goi_y_nganh_theo_diem
+tư vấn ngành theo điểm 25,goi_y_nganh_theo_diem
+điểm 24 có vừa ngành thiết kế đồ họa không,goi_y_nganh_theo_diem
+điểm 18 chọn ngành nào phù hợp,goi_y_nganh_theo_diem
+điểm 22 có vừa ngành kiến trúc nội thất không,goi_y_nganh_theo_diem
+điểm 28 có vừa ngành quy hoạch không,goi_y_nganh_theo_diem
+điểm 25 có vừa ngành quy hoạch không,goi_y_nganh_theo_diem
+điểm 25 có vừa ngành kỹ thuật xây dựng không,goi_y_nganh_theo_diem
+điểm 20 có vừa ngành kiến trúc không,goi_y_nganh_theo_diem
+điểm 18 có vừa ngành thiết kế đồ họa không,goi_y_nganh_theo_diem
+điểm 27 có vừa ngành kiến trúc không,goi_y_nganh_theo_diem
+điểm 27 có vừa ngành kiến trúc nội thất không,goi_y_nganh_theo_diem
+mình được 25 điểm nên học ngành nào,goi_y_nganh_theo_diem
+điểm 28 có vừa ngành mỹ thuật đô thị không,goi_y_nganh_theo_diem
+thống kê chỉ tiêu theo năm,thong_ke_bieu_do
+vẽ biểu đồ điểm chuẩn ngành mỹ thuật đô thị 3 năm gần đây,thong_ke_bieu_do
+so sánh điểm chuẩn 2022 và 2023 ngành quy hoạch,thong_ke_bieu_do
+hiển thị biểu đồ xu hướng điểm,thong_ke_bieu_do
+so sánh điểm chuẩn 2022 và 2023 ngành kỹ thuật xây dựng,thong_ke_bieu_do
+so sánh điểm chuẩn 2022 và 2023 ngành kiến trúc nội thất,thong_ke_bieu_do
+so sánh điểm chuẩn 2022 và 2023 ngành thiết kế thời trang,thong_ke_bieu_do
+so sánh điểm chuẩn 2022 và 2023 ngành xây dựng,thong_ke_bieu_do
+vẽ biểu đồ điểm chuẩn ngành thiết kế đồ họa 3 năm gần đây,thong_ke_bieu_do
+vẽ biểu đồ điểm chuẩn ngành thiết kế thời trang 3 năm gần đây,thong_ke_bieu_do
+thống kê điểm sàn qua các năm,thong_ke_bieu_do
+vẽ biểu đồ điểm chuẩn ngành quy hoạch 3 năm gần đây,thong_ke_bieu_do
+so sánh điểm chuẩn 2022 và 2023 ngành kiến trúc,thong_ke_bieu_do
+so sánh điểm chuẩn 2022 và 2023 ngành mỹ thuật đô thị,thong_ke_bieu_do
+vẽ biểu đồ điểm chuẩn ngành kiến trúc nội thất 3 năm gần đây,thong_ke_bieu_do
+vẽ biểu đồ điểm chuẩn ngành kỹ thuật xây dựng 3 năm gần đây,thong_ke_bieu_do
